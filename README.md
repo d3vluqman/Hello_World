@@ -1,2 +1,2 @@
 # Hello_World
-Thsi App increments number displayed on TextView by 1 when the button is clicked
+This App increments number displayed on its TextView by 1 when the button is clicked
